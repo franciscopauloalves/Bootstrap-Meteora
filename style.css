@@ -1,0 +1,33 @@
+.texto-menor{
+font-size: 13px;
+}
+
+.divs-facilidades{
+    width: 325px;
+}
+
+.cor-texto-especial{
+    color: #DAFF01;
+}
+
+.cor-icone-especial{
+    color:#DAFF01;
+}
+
+.cor-fundo-especial{
+    background-color: #9353FF;
+}
+
+.cor-botao-especial{
+    background-color: #9353FF;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
